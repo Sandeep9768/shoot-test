@@ -3,7 +3,7 @@ function CustomeTable({rowData}) {
   return (
     <div >
       <h1>Theft Bike Table</h1>
-      <table>
+      <table style={{    display: "contents"}}>
         <thead>
         <tr>
           <th>title</th>
